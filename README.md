@@ -2,8 +2,6 @@
 
 WorldAtlas is a modern, responsive React.js web application that allows users to explore countries around the world. It fetches data from a public API and displays key details such as flags, population, capital, region, and more.
 
-![App Screenshot](./screenshot.png) <!-- Replace with actual path if needed -->
-
 ---
 
 ## 🚀 Features
@@ -30,10 +28,11 @@ WorldAtlas is a modern, responsive React.js web application that allows users to
 
 > *(Replace these with your actual screenshots)*
 
-- ![Home Page](./screenshots/home.png)
-- ![Country Details](./screenshots/details.png)
+![Home Page](images/Screenshot%202025-07-08%20145729.png)
+![Home Page](images/Screenshot%202025-07-08%20145754.png)
+![Home Page](images/Screenshot%202025-07-08%20145818.png)
+![Home Page](images/Screenshot%202025-07-08%20145837.png)
+![Home Page](images/Screenshot%202025-07-08%20145853.png)
 
----
 
-## 📂 Project Structure
 
