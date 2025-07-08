@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "countryName": "World",
+    "capital": "—",
+    "population": 8000000000,
+    "interestingFact": "Estimated global population is around 8 billion as of 2024."
+  },
+  {
+    "id": 2,
+    "countryName": "India",
+    "capital": "New Delhi",
+    "population": 1428627663,
+    "interestingFact": "India surpassed China in 2023 to become the world's most populous country."
+  },
+  {
+    "id": 3,
+    "countryName": "United States",
+    "capital": "Washington, D.C.",
+    "population": 339996563,
+    "interestingFact": "The U.S. has the world’s largest economy by nominal GDP."
+  },
+  {
+    "id": 4,
+    "countryName": "Indonesia",
+    "capital": "Jakarta",
+    "population": 277534122,
+    "interestingFact": "Indonesia is the world's largest island country, made up of over 17,000 islands."
+  },
+  {
+    "id": 5,
+    "countryName": "Pakistan",
+    "capital": "Islamabad",
+    "population": 240485658,
+    "interestingFact": "Pakistan is home to K2, the second highest mountain in the world."
+  },
+  {
+    "id": 6,
+    "countryName": "Nigeria",
+    "capital": "Abuja",
+    "population": 223804632,
+    "interestingFact": "Nigeria is Africa’s most populous country and has over 500 spoken languages."
+  },
+  {
+    "id": 7,
+    "countryName": "Bangladesh",
+    "capital": "Dhaka",
+    "population": 172954319,
+    "interestingFact": "Bangladesh has one of the highest population densities in the world."
+  },
+  {
+    "id": 8,
+    "countryName": "Mexico",
+    "capital": "Mexico City",
+    "population": 132079579,
+    "interestingFact": "Mexico City is one of the oldest cities in the Americas, built on the ruins of the Aztec capital Tenochtitlan."
+  },
+  {
+    "id": 9,
+    "countryName": "Japan",
+    "capital": "Tokyo",
+    "population": 123294513,
+    "interestingFact": "Tokyo is the world’s most populous metropolitan area."
+  },
+  {
+    "id": 10,
+    "countryName": "Philippines",
+    "capital": "Manila",
+    "population": 117337368,
+    "interestingFact": "The Philippines is made up of over 7,600 islands and has the world’s third-largest Catholic population."
+  },
+  {
+    "id": 11,
+    "countryName": "Ethiopia",
+    "capital": "Addis Ababa",
+    "population": 126527060,
+    "interestingFact": "Ethiopia is one of the few African countries never colonized and is considered the cradle of human civilization."
+  }
+]
+
