@@ -37,7 +37,12 @@ const router = createBrowserRouter([
       },
     ],
   },
-]);
+], 
+{
+    basename: "/WorldAtlas",
+  }
+
+);
 
 function App() {
   return <RouterProvider router={router} />;
