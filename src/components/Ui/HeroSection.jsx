@@ -22,7 +22,7 @@ const HeroSection = () => {
           </div>
           <div className="hero-image">
             <img
-              src="/images/world.png"
+              src="public\images\world.png"
               alt="world is beauty"
               className="banner-image"
             />
