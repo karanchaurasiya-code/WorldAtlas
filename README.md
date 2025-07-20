@@ -20,7 +20,7 @@ WorldAtlas is a modern, responsive React.js web application that allows users to
 - **Routing:** React Router
 - **API:** [REST Countries](https://restcountries.com/)
 - **Icons:** RemixIcon
-- **Deployment:** (Optional) Vercel / Netlify
+- **Deployment:** (https://karanchaurasiya-code.github.io/WorldAtlas/)
 
 ---
 
